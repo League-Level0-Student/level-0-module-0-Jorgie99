@@ -10,9 +10,9 @@ public class AwesomeOrNot {
 		Random ran = new Random();    //This will be used below to make a random number. 
 		
 		// 2. Make a variable that will hold a random whole number
-	
+		
 		// 3. Set your variable equal to a positive number less than 4 using     ran.nextInt(4); 
-	
+		
 		// 3. Print your variable to the console
 	
 		// 4. Get the user to enter something that they think is awesome

@@ -10,7 +10,7 @@
 
 
 // 3. Now add an ellipse command to draw a circle. An ellipse is like an oval.
-
+ ellipse(50,50,100,100);
 //    The ellipse command looks like this:      
  ellipse(250,250, 100,100);
 //    The first 2 numbers specify where to draw it. They are the x and y co-ordinates of the center of the ellipse.
@@ -19,7 +19,7 @@
 //    Change the numbers and re-run the program to see what happens.
 
 // 4. Now add a rect command to draw a rectangle.
-
+rect(50,100,100,100);
 //    The rect command looks like this:       
 rect(250,250, 100,100);
 
@@ -37,8 +37,8 @@ rect(250,250, 100,100);
 
 //    Paste the code for your selected color between the parentheses.
 //    It should now look something like this (the code will be different):   
-fill(#FFA850);
-
+fill(#870BE0);
+ellipse(50,50,50,50);
 // 6. The next shape you draw will be in the color you selected. 
 //    NOTE: You have to put the fill command with the color you want, 
 //    BEFORE you draw the shape.
