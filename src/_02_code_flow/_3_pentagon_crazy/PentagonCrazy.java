@@ -24,7 +24,7 @@ public class PentagonCrazy {
 		int sides = 5;
 		//  TURN ANGLE. Make another int variable for the angle the robot must turn. 
 		//  			Hint: Divide 360 by the number of sides the shape has to get the angle.
-		int angle = (360/5);
+		int angle = (360/sides);
 		//  COUNT. Make another int variable to count how many times the loop has repeated
 		//         Set its start value to zero.
 		int loops = 0;
